@@ -1,2 +1,2 @@
 # MiJuego-de-Piedra-Papel-o-Tijera
- 
+ Este proyecto consiste en el desarrollo de un videojuego de “Piedra, Papel o Tijera” implementado en Python. El juego permite al usuario competir de manera interactiva contra la computadora en un formato 1vs1. Cada parte generara un resultado que otorga puntos, los cuales se irán acumulando a lo largo de la sesión de juego. El usuario podrá continuar jugando hasta decidir finalizar la partida.
