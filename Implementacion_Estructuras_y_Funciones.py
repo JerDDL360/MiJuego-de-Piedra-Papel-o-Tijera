@@ -1,6 +1,6 @@
 # Bienvenidos, mi nombre es Jeremy Delgado, estudiante universitario de la UIDE.
 # Este es mi proyecto final de lógica de programación con el profesor Iván Reyes.
-# Para este trabajo elegí desarrollar el videojuego clásico de Piedra, papel o tijera.
+# Para este trabajo elegí desarrollar el videojuego clásico: Piedra, papel o tijera.
 # En esta nueva versión del código, busco mejorar la organización, la eficiencia
 # y la legibilidad en comparación con la primera versión. A continuación explico
 # paso a paso cómo funciona esta versión optimizada.
